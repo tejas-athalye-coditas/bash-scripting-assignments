@@ -1,6 +1,6 @@
-# Linux Scripting Assignment
+# Linux Scripting Assignment-1
 
-This project contains 10 Bash scripts that demonstrate various aspects of Linux shell scripting, including file management, permissions, system information, networking, and more.
+This contains scripting assis=gnments covering various aspects of Linux shell scripting, including file management, permissions, system information, networking, loops, redirection & piping, user management
 
 ## Submission Guidelines
 
