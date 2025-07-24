@@ -119,6 +119,7 @@ Performs:
 - Sets user password.
 - Displays user details.
 - Deletes the user.
+- Deletes the group.
 
 ---
 
