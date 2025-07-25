@@ -1,6 +1,6 @@
 # Linux Scripting Assignment-1
 
-This contains scripting assis=gnments covering various aspects of Linux shell scripting, including file management, permissions, system information, networking, loops, redirection & piping, user management
+This contains scripting assisgnments covering various aspects of Linux shell scripting, including file management, permissions, system information, networking, loops, redirection & piping, user management
 
 ## Submission Guidelines
 
