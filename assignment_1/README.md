@@ -4,7 +4,6 @@ This contains scripting assisgnments covering various aspects of Linux shell scr
 
 ## Submission Guidelines
 
-- All scripts are included in a `.tar.gz` archive: `linux_scripting_assignment.tar.gz`.
 - All scripts have executable permissions (`chmod +x`).
 - Each script is well-commented, explaining each command for clarity and educational purposes.
 
