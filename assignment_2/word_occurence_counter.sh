@@ -1,6 +1,6 @@
 # Task 4
 
-#/bin/bash
+#!/bin/bash
 
 echo "Enter the word to count its occurences: "
 read word
