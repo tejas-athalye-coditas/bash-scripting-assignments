@@ -1,6 +1,6 @@
 # Task 2
 
-#/bin/bash
+#!/bin/bash
 
 string="Hello World!"
 
