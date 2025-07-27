@@ -1,6 +1,6 @@
 # Task 3
 
-#/bin/bash
+#!/bin/bash
 
 echo "Enter the path of directory to be backed up: "
 read path
