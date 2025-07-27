@@ -1,6 +1,6 @@
 # Task 1
 
-#/bash/bin
+#!/bash/bin
 
 echo "Enter a string: "
 read string
